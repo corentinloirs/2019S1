@@ -32,7 +32,7 @@ while True:
         if event.key == K_q:
           pygame.display.quit()
           pygame.quit()
-
+je reajoute nawak
   screen.fill(BLACK)
   draw_cell((2, 2), WHITE)
   pygame.display.update()
